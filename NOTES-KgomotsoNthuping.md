@@ -1,0 +1,32 @@
+## Assignment 2.1
+
+## Question 1
+For the Daily App, I would use Kanban since it will be a solo project in short sessions. This approach provides me with flexibility to pull the next highest task instead of committing to a fixed sprint. 
+
+For Trackflow, I would choose Scrum since it is a shared project. The fixed Sprints would give the team short term goals and time to plan and check how they are busy working. Reviews would also help the team see which features are wokring rather than waiting until the end of the project. 
+
+## Question 2
+I choose responding to change over following a plan. I would face the chnage of features/ workflows as I use the application to make it more better. Responding to change is better but I would still keep the initial plan so the project still has direction. Responding to feedback helps ensure that the applicationgets to a point where it solves the user's problem. 
+
+## Question 3
+- Problem 1: Requirements being fixed early
+This conflicts with the value of 'Responding to change over following a plan' because requirements are not allowed after design phase.
+For my application, I may see that another feature is required and preventing this change would mean I continue with the weaker design because it was written down earlier. 
+
+- Problem 2: Testing happening late
+The Waterfall plan waits for the build phase to be completed before the product is seen and this conflicts with the Working software value. If users only see the application near the end, the team would have built features that users donot actually need. 
+Better approach would be to demonstrate a small working version early and get feedback from users and see what to do next. 
+
+- Problem 3: Product being released at once
+A smaller version of the application could be made available much earlier. Instead of waiting for every planned feature, I would identify the Minimum Viable Product and produce that.
+
+- Redesign:
+Plan a little - Build  - Test and Show user - Get feedback - Adjust and move to next part
+
+## Updates
+
+Q1: 
+Yes. I understood the structure technically but did not immediately see what problem it would solve. Turning it into ApplyFlow gave each part of that structure a real meaning: Boards became job-search campaigns, Columns became application stages, and Cards became job opportunities.
+
+Q2:
+The problem that would hurt the most is waiting until the end of development before showing the application and gathering feedback. A team could spend weeks building and only discover at the end that important requirements were misunderstood or that users expected something different
