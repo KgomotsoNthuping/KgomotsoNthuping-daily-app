@@ -30,3 +30,18 @@ Yes. I understood the structure technically but did not immediately see what pro
 
 Q2:
 The problem that would hurt the most is waiting until the end of development before showing the application and gathering feedback. A team could spend weeks building and only discover at the end that important requirements were misunderstood or that users expected something different
+
+## Assignment 2.2
+
+## Question 1
+TrackFlow: Will be updated soon. 
+
+Daily-App (ApplyFlow): The role I will neglect first will be Scrum Master since development would be more demanding and handle Scrum Masters "job" as more optional. To stop this from happening, it would require that I schedule a couple of minutes at the end of the development session to review things and update what is done and decide what next to work on.
+
+## Question 2
+The Board and Stage Management backlog item would be Ready when the user outcome is clearly well-put and understandble and also clear that problem the it would solve and also, when important questions have been answered. 
+
+The Board and Stage Management is Done when they work as intended and also, the needed tests have been completed successfully. 
+
+## Question 3
+I think Sprint Backlog becuase I would look at Product Backlog and choose to work on a task without deciding first if it belongs in the Sprint. This would be a loss because I could end up not finishing the feature before even moving on to something else that catches my attention at the time  and tasks would build  up. 
