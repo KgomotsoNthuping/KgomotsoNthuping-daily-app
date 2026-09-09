@@ -45,3 +45,8 @@ The Board and Stage Management is Done when they work as intended and also, the 
 
 ## Question 3
 I think Sprint Backlog becuase I would look at Product Backlog and choose to work on a task without deciding first if it belongs in the Sprint. This would be a loss because I could end up not finishing the feature before even moving on to something else that catches my attention at the time  and tasks would build  up. 
+
+## Updates
+1. My answer has not changed. Creating the 3 logs showed me more that I will focus less on Scrum Master. However checking blockers and sprint progress is essential so I do not start work unclear. 
+
+2. Yes, I expected items to fit into sprint 1 but Definition of Ready did not allow 05 to be selected as a decision to edit is still not throughly thought through. 
