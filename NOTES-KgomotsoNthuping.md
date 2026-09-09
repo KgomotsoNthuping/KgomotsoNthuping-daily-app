@@ -50,3 +50,29 @@ I think Sprint Backlog becuase I would look at Product Backlog and choose to wor
 1. My answer has not changed. Creating the 3 logs showed me more that I will focus less on Scrum Master. However checking blockers and sprint progress is essential so I do not start work unclear. 
 
 2. Yes, I expected items to fit into sprint 1 but Definition of Ready did not allow 05 to be selected as a decision to edit is still not throughly thought through. 
+
+## Assignment 2.3
+
+### Question 1
+I will choose Board view because the app is based stages such as Saved, Applied and Closed. The Board view makes this progression easy to understand visually because each application can be seen in the stage where it currently belongs. 
+
+List view would still be useful when I want to see application details in a more structured format when comparing information such as employer and closing date.
+
+Timeline view would be useful for time sensitive planning like looking at deadlines.
+
+### Question 2
+#### 1. Priority
+This field would support decisions about which job opportunities deserve attention first. I could filter the project to show only high priority opportunities when I have limited time and need to focus on the applications that matter most.
+
+#### 2. Application Type
+This field would help filter opportunities according to the kind of application role like internship or permanent.
+
+#### 3. Application Status
+This field would support filtering and reporting on where applications currently stand. 
+
+### Question 3
+Tag: Remote. This could be useful because it is flexible and does not necessarily need a fixed set of values.
+
+Custom field: Priority. This will have values such as High, Medium, and Low. Priority needs consistent values because I may want to filter or sort applications according to importance.
+
+If I swapped priority were stored as a tag, I could easily end up with inconsistent tags which are more flexible and descriptive
