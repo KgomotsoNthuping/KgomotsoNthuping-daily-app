@@ -23,14 +23,14 @@ Allow the user to remove an application that is no longer needed.
 ### 07 — Move an application between stages
 Allow application cards to move from one stage to another as the application progresses.
 
-## Epic 4 — Search and Filtering
+## Epic 3 — Search and Filtering
 ### 08 — Search applications
 Allow users to search for applications using information such as job title or company.
 
 ### 09 — Filter applications
 Allow applications to be filtered according to stage or employer.
 
-## Epic 5 — Data Persistence
+## Epic 4 — Data Persistence
 ### 10 — Save application data
 Ensure board, stage and application information can be stored.
 

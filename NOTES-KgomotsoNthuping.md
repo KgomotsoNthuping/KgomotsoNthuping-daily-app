@@ -76,3 +76,16 @@ Tag: Remote. This could be useful because it is flexible and does not necessaril
 Custom field: Priority. This will have values such as High, Medium, and Low. Priority needs consistent values because I may want to filter or sort applications according to importance.
 
 If I swapped priority were stored as a tag, I could easily end up with inconsistent tags which are more flexible and descriptive
+
+## Updates
+### 1.
+Yes, I mainly saw the backlog as a list of features that needed to be completed. Organising QuickNotes into sections showed me that grouping related work makes the backlog easier to understand and manage.
+
+### 2.
+Since I only have 2 items, once I broke the first item into subtasks, I realised that creating a board involves more work than the title just mentions like getting the board name, validating it and more. I would therefore be more careful about sizing items based only on their titles.
+
+### 3.
+I saw needs-design works better as a tag because it is a flexible label that could apply to different types of tasks.
+
+## Stretch A
+I created a filter called Task With No Due Date. This filter helps me identify tasks that have been added to the project but have not yet been scheduled. This will later help me decide which backlog items need a due date and should be prioritised. 
