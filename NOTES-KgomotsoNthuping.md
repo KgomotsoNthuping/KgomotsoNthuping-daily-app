@@ -130,3 +130,16 @@ It passes all checks as it can be developed without requiring later features and
 - Story 3: 2 Story Points
 - Story 4: 3 Story Points
 - Story 5: 1 Story Point
+
+## Updates
+### 1. 
+At first I thought, Create job-search board is a simple task where the user enters a name and a board is created. After rewriting it, I realised this would help user organise applications and it would be better to get feedback as board is created.
+
+### 2. 
+#### Still to complete.
+
+### 3. 
+Once each story had its own acceptance criteria, I could compare its relative complexity against the reference story more meaningfully.
+
+## Stretch B
+Epics did not fully hold up. I would keep the epic information as a reference while using the board primarily to show workflow status.
