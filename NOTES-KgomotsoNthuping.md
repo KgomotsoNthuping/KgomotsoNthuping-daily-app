@@ -89,3 +89,44 @@ I saw needs-design works better as a tag because it is a flexible label that cou
 
 ## Stretch A
 I created a filter called Task With No Due Date. This filter helps me identify tasks that have been added to the project but have not yet been scheduled. This will later help me decide which backlog items need a due date and should be prioritised. 
+
+## Assignment 2.4
+### Question 1
+1. As an applicant, I want to create a job-search board with a meaningful name, so that I can organise applications belonging to a specific job-search category.
+
+2. As an applicant, I want to see my newly created board immediately after creating it and begin using it.
+
+3. As an applicant, I want to be let known when I enter an invalid board name, so that I can correct it before trying to create the board again.
+
+4. As an applicant, I want a newly created board to have fields like applied so that I can track applications.
+
+5. As an applicant, I want the default stages to appear in the order so that the board reflects the normal progression of a job application.
+
+### Question 2
+- Story 1:
+    - The user can enter a name for a new job-search board.
+    - When the user submits a valid board name, a new board is created.
+    - The created board stores the name entered by the user.
+- Story 2:
+    - After a valid board is created, it is visible to the user.
+    - The displayed board shows the same name that the user entered.
+    - The user does not need to refresh page for it to appear.
+- Story 3:
+    - An empty board name is rejected.
+    - The user receives a message stating a valid board name is required.
+    - No board is created when the entered name is invalid.
+- Story 4:
+    - Stages are named Saved, Applied and Closed.
+    - The user does not need to manually create these stages.
+- Story 5:
+    - The final default order is Saved → Applied → Closed.
+    - Every newly created board uses the same default order.
+### Question 3
+It passes all checks as it can be developed without requiring later features and implementation can still be negotiated, it is valuable as it helps the applicant organise application and small since its separated from validation and the expected behaviour is clear. A user creating a board name and confirm that it has created. 
+
+### Question 4
+- Story 1: 3 Story Points
+- Story 2: 2 Story Points
+- Story 3: 2 Story Points
+- Story 4: 3 Story Points
+- Story 5: 1 Story Point
