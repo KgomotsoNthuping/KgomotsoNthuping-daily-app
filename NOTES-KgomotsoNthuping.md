@@ -143,3 +143,26 @@ Once each story had its own acceptance criteria, I could compare its relative co
 
 ## Stretch B
 Epics did not fully hold up. I would keep the epic information as a reference while using the board primarily to show workflow status.
+
+## Assignment 3.1
+### Question 1
+Direct Edit: When I own the document or when the team has already agreed on a change and there is no need for further discussion. E.g. I could edit the Sprint 1 timeline after the dates have already been agreed upon.
+
+Edit Suggestion: When I believe someone else's wording should change but I want the document owner to decide whether to accept or reject the change. E.g. If a teammate wrote that the goal of ApplyFlow is simply to store job applications, I could suggest changing it to explain that ApplyFlow helps applicants organise and track applications through different stages. 
+
+Comment: When I need clarification or want to discuss without chnaging the infromation. E.g. I could comment on the ApplyFlow section and ask whether search and filtering should be included in Sprint 1.
+### Question 2
+Owner: Myself, becuase I am responsible for creating, organising and maintaining the Daily App documentation.
+
+Commenter: Instructor, because this would allow for a review of my project documentation, leave feedback and questions.
+
+Viewer: Trainee, because they could use the document for reference but will not be able to make changes. 
+### Question 3
+I would use Google Meet call for parts that require discussion or immediate decisions. Goal-setting should happen synchronously because the team may have different interpretations of what the project is trying to achieve. Initial task ownership and important blocking questions would also benefit from a live discussion because questions can be resolved quickly. 
+Status updates should mainly happen asynchronously through tools such as Docs, Sheets or Asana. Team members do not need a meeting simply to report that a task is complete or still in progress. Project documentation, owners and agreed decisions should also be recorded asynchronously so that the information remains available after the meeting.
+
+## Google Drive Links:
+- ApplyFlow - https://drive.google.com/drive/folders/1wanbdGWpHOkXkRVYevSqbvTITlIR6X8k?usp=drive_link
+
+- TidyUp - https://drive.google.com/drive/folders/1Q6Fm31suipG26rQMS_CLEVoSmiDAbeNF?usp=drive_link
+
