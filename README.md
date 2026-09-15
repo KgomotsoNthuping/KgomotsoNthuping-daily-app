@@ -1,4 +1,11 @@
 # ApplyFlow
 
+ApplyFlow is a job application tracking system designed for applicants who want one place to manage their applications. It uses boards, stages and cards to provide a clear view of where each application currently stands and can contain information such as the employer, position, closing date and application notes.
 
-ApplyFlow is a job-application tracking application designed for students who want one place to manage their opportunities. A Board represents a job-search category. Each Column represents an application stage such as Saved, Applied and Closed. Each Card represents an individual job opportunity and can contain information such as the employer, position, closing date and application notes.
+## Purpose
+
+
+## Usage
+
+
+## Doc Links
