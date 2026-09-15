@@ -4,8 +4,11 @@ ApplyFlow is a job application tracking system designed for applicants who want 
 
 ## Purpose
 
+## Setup
 
 ## Usage
 
 
 ## Doc Links
+Planning Document: docs/planning
+Decisions Document: docs/decisions
