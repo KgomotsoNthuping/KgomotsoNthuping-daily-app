@@ -162,7 +162,7 @@ I would use Google Meet call for parts that require discussion or immediate deci
 Status updates should mainly happen asynchronously through tools such as Docs, Sheets or Asana. Team members do not need a meeting simply to report that a task is complete or still in progress. Project documentation, owners and agreed decisions should also be recorded asynchronously so that the information remains available after the meeting.
 
 ## Google Drive Links:
-- ApplyFlow - https://drive.google.com/drive/folders/1wanbdGWpHOkXkRVYevSqbvTITlIR6X8k?usp=drive_link
+- ApplyFlow: https://drive.google.com/drive/folders/1wanbdGWpHOkXkRVYevSqbvTITlIR6X8k?usp=drive_link
 
-- TidyUp - https://drive.google.com/drive/folders/1Q6Fm31suipG26rQMS_CLEVoSmiDAbeNF?usp=drive_link
+- TidyUp: https://drive.google.com/drive/folders/1Q6Fm31suipG26rQMS_CLEVoSmiDAbeNF?usp=drive_link
 
