@@ -166,3 +166,29 @@ Status updates should mainly happen asynchronously through tools such as Docs, S
 
 - TidyUp: https://drive.google.com/drive/folders/1Q6Fm31suipG26rQMS_CLEVoSmiDAbeNF?usp=drive_link
 
+## Assignment 3.2
+### Question 1
+I would add a project status and roadmap section.
+Since the application is still the planning and documentation stage a project status section would make it clear so that someone cloning the repository does not assume that there is already a working application to install or run. The roadmap would also show how the project is expected to progress from the current planning stage into development.
+
+### Question 2
+Since ApplyFlow does not currently contain application code
+
+However I would look at this in the following manner:
+1. Comments that simply repeat what the code already says should be removed.
+2. Non-obvious decision where a short comment explaining why the code works that way would help a future developer.
+
+E.g. the rule that every newly created ApplyFlow board automatically receives the stages Saved, Applied and Closed may eventually deserve a comment explaining that these are the application's agreed default workflow stages.
+
+### Question 3
+To model the application around a Board to Stage to Card structure.
+
+This is ADR-worthy because it affects how the application will eventually store data, display information and support movement of job applications through the workflow.
+This is more than a routine implementation detail because future features such as moving applications, filtering by stage and storing board information all depend on this structure. A future developer needs to understand why this model was chosen before replacing it.
+
+## Part 2
+QuickNotes link: https://docs.google.com/document/d/1sbhwdfVnwWEgHjoc3cxbUQdgp4VNyiH_hu7E0lTz4lY/edit?usp=sharing
+
+## Task 6 
+Still to complete as code is ongoing. 
+
