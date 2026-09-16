@@ -192,3 +192,76 @@ QuickNotes link: https://docs.google.com/document/d/1sbhwdfVnwWEgHjoc3cxbUQdgp4V
 ## Task 6 
 Still to complete as code is ongoing. 
 
+## Assignment 3.3
+### Question 1
+To enquire about the capstone project as the daily app does not have code yet. This would have worked better on Slack for a more prompt response. 
+### Question 2
+Blocker: Not having code for my daily app in preparation yet for the previous assignment. I made sure to have a function to be able to complete the assignment for later.
+
+### Question 3
+Specific feedback:
+The ApplyFlow README explains the purpose of the application clearly, but the Setup section should state more prominently that there is currently no runnable application code. I would move the project-status warning to the beginning of the Setup section so that someone cloning the repository immediately understands that the repository is still in the planning and documentation stage.
+
+Vague version:
+The README needs some work.
+
+Difference:
+The specific feedback identifies exactly what needs improvement, why while the vague feedback gives no clear direction for what should be changed.
+
+## Part 2
+### Task 1
+- Slack for budget sync feature 
+    -   Hi team, I’m currently blocked by an issue with BudgetBuddy’s   budget sync feature. Changes to a budget are not reflecting correctly after sync and this is affecting the work I’m doing now. Has anyone worked on the sync logic recently who can help me check where the update may be failing?
+
+- Email for export feature 
+    -   Hi team
+
+        Please confirm whether the export feature should remain in the current Sprint or return to the Product Backlog.
+
+        Before more work is committed to it, we should confirm whether it still supports the Sprint Goal. Please share your view so that we can record the final Sprint decision.
+
+        Kind Regards
+
+### Task 2
+Context: I’m working on budget total calculation after transactions.
+
+What I tried: I checked the transaction amounts and added the totals to compare them with the overall total.
+
+Error: No exception is displayed, but the three totals don't match the overall budget total display.
+
+Specific ask: Could someone help me check whether I should investigate the recalculation logic first or the code that updates the overall budget total?
+
+## Task 3
+updateBudget() currently handles input validation, category-total recalculation and database persistence in one 40-line function. 
+
+This gives the function several responsibilities and may make it harder to read, test, and maintain. 
+
+Could we separate the validation and calculation logic into smaller functions and leave updateBudget() to do the update?
+
+## Task 4
+Thank you for pointing that out. I can see that updateBudget() has too many responsibilities, making the logic harder to test. Just to clarify, would you recommend separating only the validation and calculation logic? 
+
+## Part 3
+### Task 5
+Good day, I’m working on ApplyFlow’s Sprint 1 stories. I currently have only two sprint backlog items, but the assignment requires at least five user stories. I’ve broken the existing items into smaller outcomes such as board creation, validation, display and default-stage setup rather than adding new functionality. Could you confirm that this is the correct way to meet the requirement without expanding the Sprint scope?
+
+### Task 6
+In Sprint 1 backlog, Under “Items Considered but Not Selected", could we either remove these two items from the Sprint 1 document or add a short note explaining that they were considered as possible future work but were never added to the Product Backlog? This would keep the Sprint documentation consistent with the actual backlog
+
+### Task 7
+The feedback I received was to review the CODEOWNERS file and confirm that the correct owners were assigned.
+
+What made the feedback useful was that it gave me a specific area to check instead of simply telling me to "check the repository."
+
+I responded by reviewing the paths and ownership entries in the CODEOWNERS file rather than assuming that the existing configuration was correct. If I was uncertain about a particular ownership rule, I would ask for clarification before changing it.
+
+### Task 8
+#### Original Message
+Good day, please receive the link for Assignment 3.2: https://github.com/KgomotsoNthuping/KgomotsoNthuping-daily-app.git
+
+#### Improved Message
+Good day, please receive the link below for Assignment 3.2. I’ve added the QuickNotes Part 2 link to my `NOTES-KgomotsoNthuping.md` file under Assignment 3.2.
+
+The link should now be available for review. Please let me know if you have any trouble accessing it or if I have placed it in the wrong section.
+
+The original message changed becuase it did not explain where the link was added. The improved version gives the exact location to simplify things. 
